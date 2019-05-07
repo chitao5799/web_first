@@ -1,0 +1,128 @@
+/* CSS Document */
+#menu_tab{
+	width:1000px;
+	height:50px;
+	}
+.left_menu_content{
+	width:9px;
+	height:50px;
+	float:left;
+	}
+.right_menu_content{
+	width:9px;
+	height:50px;
+	float:left;
+	}
+ul.menu{
+	width:1000px;
+	float:left;
+	display:block;
+	background:url(../image/mauXamMenu.PNG) repeat-x ;
+	list-style-type:none;
+}
+ul.menu li{
+	display:inline;
+	font-size:11px;
+	font-weight:bold;
+	
+	line-height:50px;
+	}
+ul.menu li.divider{
+	display:inline;
+	width:2px;
+	height:50px;
+	float:left;
+	background:url(../image/top_divider.png) no-repeat center;	
+}
+ul.menu li a, ul.menu li a:visited{
+	display:block;
+	float:left;
+	padding:0 8px 0 2px ; /*padding:0 8px 0 22px ;*/
+	margin:0 1px;   /*margin:0 14px;*/
+	height:50px ;
+	text-decoration:none;
+	color:#67d77;
+}
+	
+/*#nav_pro{
+	background:url(../image/menuProduct.PNG) no-repeat left;
+	}
+	cái này sẽ kết hợp với phần comment phía trên để hiển thị icon, nếu icon nhỏ. áp dụng cho các thành phần khác
+	nữa trong menu #nav_...
+	*/
+img[src="image/menuHome.PNG"]{
+	float:left;
+	height:20px;
+	width:20px;
+	padding:15px 0 0 10px;
+	margin:0px;
+	}
+img[src="image/menuProduct.PNG"]{
+	float:left;
+	height:20px;
+	width:20px;
+	padding:15px 0 0 10px;
+	margin:0px;
+	}
+img[src="image/menuSpecial.PNG"]{
+	float:left;
+	height:20px;
+	width:20px;
+	padding:15px 0 0 10px;
+	margin:0px;
+	}
+img[src="image/menuAccount.PNG"]{
+	float:left;
+	height:20px;
+	width:20px;
+	padding:15px 0 0 10px;
+	margin:0px;
+	}
+img[src="image/menuSingup.PNG"]{
+	float:left;
+	height:20px;
+	width:20px;
+	padding:15px 0 0 10px;
+	margin:0px;
+	}
+img[src="image/menuShipping.PNG"]{
+	float:left;
+	height:20px;
+	width:20px;
+	padding:15px 0 0 10px;;
+	margin:0px;
+	}
+img[src="image/menuContact.PNG"]{
+	float:left;
+	height:20px;
+	width:20px;
+	padding:15px 0 0 10px;
+	margin:0px;
+	}
+li.Currencies{
+	width:180px
+	float:left;
+	padding:0 0 0 15px;
+	color:#666;
+	font-size:11px;
+	font-weight:bold;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+	}
+.clr{/*co chuc nang xoa di dinh dang top left right...*/
+	clear:both;
+	
+	}
+body{
+	/*background: url(../image/backgroundTop.jpg)  top repeat-x; */
+	background-color:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	}
+.main{
+	width:1000px;
+	margin:0px auto;
+	}
+/* ----------top---------*/
+.top{
+	width:1000px;
+	height:33px;
+	background-color:#4A4A4A;
+	}
+.language{ 
+float:right;
+width:200px;
+padding-top:8px;
+
+}
+.language div{
+	float:left;
+	color:#B3ADAD;
+	padding:0 5px 0 0;
+	}
+.language a{
+float:left;
+display:block;
+padding:0 5px;
+}
+
+.search{
+	width:350px;
+	height:30px;
+	float:right;
+	background:url(../image/mautrang1.png) center no-repeat ;
+	margin-right:60px; 
+	
+	}
+<!--.search background[url="(../image/mautrang1.png)"]{heitht:10px;width:50px;}-->
+.search .search_text {
+ padding:8px 0 0 15px;
+ float:left;
+ width:110px;
+ color:#999999;
+}
+.search .search_text a{
+		color:#999999;
+		text-decoration:none;
+	}	
+.search .search_input{
+	width:182px;
+	height:18px;
+	margin-top:5px;
+	border:1px solid #dbdbdb;
+	float:left;
+	border-bottom-color:#CCC;
+	boder-right-color:#ffffff;
+}
+.main .top .search input[src="image/search.png"]{
+	height:20px;
+	width:20px;
+	}
+.search .search_bt{
+float:left;
+padding:2px 0 0 15px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	

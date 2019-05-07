@@ -1,0 +1,20 @@
+/* CSS Document */
+.navigation{
+	width:980px;
+	height:15px;
+	padding:5px 10px 0 20px;
+	color:#333333;
+	/*background:url(../image/chamTronNav.PNG) no-repeat left;
+	background-position: 5px 6px;*/
+	}
+.navigation img[src="image/chamTronNav.PNG"]{
+	width:5px;
+	height:5px;
+	margin-right:5px;
+	}
+.navigation span.current{
+	color:#0fa0dd;
+	}
+.navigation a{
+	color:#0fa0dd;
+	text-decoration:underline;}

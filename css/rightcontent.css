@@ -1,0 +1,61 @@
+/* CSS Document */
+.right_content{
+	width:196px;
+	float:left;
+	padding:5px 0 0 0;
+	}
+.cart_icon img[src="image/icon_giohang.png"]{
+	width:30px;
+	height:30px;
+	}
+
+.shopping_cart{
+	width:195px;
+	height:84px;
+	text-align:center;
+	background-color:#CCC;
+	border:1px hidden;
+	border-radius:10px 10px 10px 10px;
+	}
+.cart_title{
+	height:20px;
+	background-color:#999;
+	border:1px hidden;
+	border-radius:10px 10px 0 0;
+	font-size:12px;
+	color:#00F;
+	font-weight:bold;
+	padding-top:8px;
+	}
+.cart_details{
+	width:115px;
+	float:left;
+	text-align:left;
+	padding:5px 0 0 15px;
+	}
+.cart_icon{
+	float:left;
+	padding:5px 0 0 15px;	
+	}
+span.border_cart{
+	width:100px;
+	height:1px;
+	display:block;
+	margin:3px 0;
+	border-top:1px #999 dashed;
+	}
+.banner_adds img[src="image/banner2.jpg"]{
+	width:170px;
+	height:210px:
+	}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,104 @@
+/* CSS Document */
+.center_content{
+	width:585px;
+	float:left;
+	padding:5px 10px;
+}
+.center_title_bar{
+	width:520px;
+	height:33px;
+	float:left;
+	background-color:#DAD8D3;
+	padding:0 0 0 40px;
+	line-height:33px;
+	margin:0 0 0 12px;
+	font-weight:bold;
+	color:#847676;
+	border:1px hidden;
+	border-radius:10px 10px 10px 10px;
+}
+.center_content img[src="image/laptop.jpg"]{
+	width:120px;
+	height:120px;}
+	
+.center_content img[src="image/dienthoai.jpg"]{
+	width:120px;
+	height:120px;}
+.center_content img[src="image/loa.jpg"]{
+	width:120px;
+	height:120px;}
+.center_content	.center_title_bar img[src="image/muiten.png"]{
+	width:20px;
+	height:20px;
+	padding:7px 7px 0px 0;
+	float:left;
+	}
+.prod_box{
+	width:173px;
+	height:auto;
+	float:left;
+	padding:10px 10px 10px 11px;
+	}
+.top_prod_box{
+	width:173px;
+	height:12px;
+	float:left;
+	background-color:#E8E7E3;
+	}
+.bottom_prod_box{
+	width:173px;
+	height:12px;
+	float:left;
+	background-color:#DFDFFF;
+	}
+.center_prod_box{
+	width:173px;
+	height:auto;
+	float:left;
+	text-align:center;
+	background-color:#D7FFFF;
+	}
+.prod_details_tab
+{
+	width:173px;
+	height:31px;
+	float:left;
+	margin:3px 0 0 0 ;
+	background-color:#E6E3E8  ;
+	border:1px hidden;
+	border-radius:10px 10px 10px 10px;
+	}
+.prod_details_tab .left_pt{
+	width:22px;
+	height:22px;
+	float:left;
+	padding:4px 0;
+	margin:0px 2px;
+	}
+a.prod_details{
+	width:25px;
+	display:inline;
+	float:left;
+	margin:7px 0 0 6px;
+	text-decoration:none;
+	color:#0fa0dd;
+	
+	}
+img[src="image/icon_prod4.PNG"]{
+	width:22px;
+	height:22px;
+	float:left;
+	margin: 4px 0px 0 28px;}
+a.prod_details p
+{
+	float:left;
+	display:inline;
+}
+	
+	
+	
+	
+	
+	
+	
+		

@@ -1,0 +1,111 @@
+/* CSS Document */
+.prod_box_big{
+	width:554px;
+	height:auto;
+	float:left;
+	padding:10px 10px 10px 10px;
+	
+	}
+.top_prod_box_big{
+	width:554px;
+	height:12px;
+	float:left;
+	background-color:#EEECE6;
+	}
+.top_prod_box_big{
+	border:1px hidden;
+	border-radius:10px 10px 0 0;
+	}
+.bottom_prod_box_big{
+	border:1px hidden;
+	border-radius:0 0 10px 10px ;
+	}
+.bottom_prod_box_big{
+	width:554px;
+	height:12px;
+	float:left;
+	background-color:#F2ECF1;
+	}
+.center_prod_box_big{
+	width:554px;
+	height:auto;
+	float:left;
+	background-color:#D3DAE4;
+	}
+.contact_form{
+	width:355px;
+	float:left;
+	padding:0 0 0 75px;
+	}
+.form_row{
+	width:355px;
+	color:#a53d17;
+	padding:10px 0;
+	clear:both;
+	}
+label.contact{
+	width:75px;
+	float:left;
+	font-size:12px;
+	text-align:left;
+	color:#333;
+	padding:4px 5px 0 0 ;
+	}
+input.contact_input{
+	
+	width:253px;
+	height:18px;
+	background-color:#fff;
+	color:#999;
+	border:1px #dfdfdf solid;
+	float:left;
+	
+	}
+textarea.contact_textarea{
+	width:253px;
+	height:50px;
+		font-size:12px;
+		background-color:#fff;
+	color:#999;
+	border:1px #dfdfdf solid;
+	float:left;
+	max-width:253px;
+	max-height:200px;
+	
+	
+}
+.khung{
+	width:70;
+	float:right;
+	}
+.form_row .khung img[src="image/icon_send.PNG"]{
+	width:23px;
+	height:23px;
+	float:left;
+	}
+a.contact{
+	background-color:#9F0;
+	width:35px;
+	height:27px;
+	display:block;
+	float:right;
+	text-decoration:none;
+	line-height:27px;
+	color:#F0F;
+	border:1px hidden;
+	border-radius:15px;
+	padding-left:3px;
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

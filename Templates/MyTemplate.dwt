@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>trang chu web site</title>
+    <!-- TemplateEndEditable -->
+    <link rel="stylesheet" type="text/css" href="../css/top.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/header.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/munutab.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/navigation.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/leftcontent.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="../css/centercontent.css"/>
+	<link rel="stylesheet" type="text/css" href="../css/rightcontent.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/footer.css"/>
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+<body>
+    <div class="main">
+   <!--/* start top. top de chua tim kiem,ngon ngu */-->
+        <div class="top">
+          	<div class="language">
+            	<div>language:</div>
+                <a href="#"><img src="../image/coAnh.png" alt="ngon ngu anh" style="height:20px" /></a>
+                 <a href="#"><img src="../image/coMy.png"alt="ngon ngu anh my " style="height:20px"/ ></a>
+             </div>
+             <div class="search">
+             	<div class="search_text"><a href="#">advanced search</a> </div>
+                <input type="text" class="search_input" name="search"/>
+                <input type="image" src="../image/search.png" class="search_bt" />
+             </div>
+         </div>
+      
+      <!-- /* end top*/
+        /*header chua slide, menu*/-->
+        <div class="header">
+        	<div id="logo"><img src="../image/logo.jpg" alt="image" /></div>
+        	<div class="slider">
+            	<div class="top_divider"><img src="../image/top_divider.png"/></div>
+                <div class="slide_content">
+                	<div class="content">
+                        <img src="../image/laptop.jpg"alt="image" class="slide_img" />
+                        <div class="slide_details">
+                            <div class="slide_title"> samsung gx 2004</div>
+                            <div class="slide_text">
+                              Lorem ipsum dolor sit amet, consectetut adipsicing elit, sed do eiusmod pasda
+                            </div>
+                            <a href="#" class="details"> details</a> 
+                        </div>
+               		</div>
+                    <div class="clr"></div>
+                    <div class="pagination">
+                        <span class="current">1</span>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#">4</a>
+                        <a href="#">5</a>
+                    </div>
+                </div>
+            </div>
+            <div class="top_divider"><img src="../image/top_divider.png"/> </div>
+
+        </div>
+        <!--/*end header*/
+        /*start content chua cac san pham, cac thu*/-->
+        <div class="clr"></div>
+        <div class="content">
+        	<!-- menu tab -->
+        	<div id="menu_tab">
+            	<div class="left_menu_corner"></div>
+                <ul class="menu">
+                	<img src="../image/menuHome.PNG" />
+                	<li><a href="#" id="nav_home">Home</a></li>
+                    <li class="divider"></li>
+                    <img src="../image/menuProduct.PNG" />
+                    <li><a href="#" id="nav_pro">Products</a></li>
+                    <li class="divider"></li>
+                    <img src="../image/menuSpecial.PNG" />
+                    <li><a href="#" id="nav_spe">Specials</a></li>
+                    <li class="divider"></li>
+                    <img src="../image/menuAccount.PNG" />
+                    <li><a href="#" id="nav_acc">My account</a></li>
+                    <li class="divider"></li>
+                    <img src="../image/menuSingup.PNG" />
+                    <li><a href="#" id="nav_sig">Sign Up</a></li>
+                    <li class="divider"></li>
+                    <img src="../image/menuShipping.PNG"  />
+                    <li><a href="#" id="nav_shipping">Shipping</a></li>
+                    <li class="divider"></li>
+                    <img src="../image/menuContact.PNG" />
+                    <li><a href="#" id="nav_con">Contact Us</a></li>
+                    <li class="divider"></li>
+                    <li class="Currencies">Currencies
+                    	<select>
+                        	<option>Us Dollars</option>
+                            <option>Europ</option>
+                        </select>
+                    </li>
+                </ul>
+                <div class="right_menu_corner"></div>
+            </div>
+            <!-- navigation left-->
+            <div class="navigation">
+            	<img src="../image/chamTronNav.PNG"/>Navigation: <span class="current">Home</span>
+             
+            </div>
+        	<!-- left content--->
+            <div class="left_content">
+            	<!-- categories-->
+                <div class="title_box">Categories</div>
+                <ul class="left_menu">
+                	<li class="odd"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Motherboards</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Desktops</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Laptops</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Motherboards</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Desktops</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Laptops</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                </ul>
+                <!--special product-->
+                <div class="title_box">special product</div>
+                <div class="border_box">
+                	<div class="product_title"><a href="#"> Motorola 156 mk</a></div>
+                    <div class="product_image"><a href="#"><img src="../image/laptop.jpg" /></a></div>
+                    <div class="product_price">
+                    	<span class="reduce">3503$</span>
+                        <span class="price">270$</span>
+                    </div>
+                </div>
+                <!--newletter-->
+                <div class="title_box">Newletter</div>
+                <div class="border_box">
+                	<input type="text" name="newletters" class="newletters_input" value="your email:"/>
+                
+                   
+                     <a href="#" class="join">join</a>
+                
+                </div>
+                <!-- banner-->
+                <div class="banner_adds">
+                	<a href="#"><img src="../image/banner.PNG" alt="banner"/></a>
+                	<br/>Watch beautiful
+                </div>
+            </div>
+            <!--center content---><!-- TemplateBeginEditable name="TemplateCoTheSua" -->
+            <div class="center_content">
+              <div class="center_title_bar"><img src="../image/muiten.png" />
+                <p>Lateart product</p>
+              </div>
+              <!--moi san pham trong mot the div-->
+              <!--product trai-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Motorola 156 mk</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/laptop.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <!--product giua-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Dien Thoai HK</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/dienthoai.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <!--product phai-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Loa CKD</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/loa.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <!--product trai-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Motorola 156 mk</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/laptop.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <!--product giua-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Dien Thoai HK</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/dienthoai.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <!--product phai-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Loa CKD</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/loa.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <div class="center_title_bar"><img src="../image/muiten.png" />
+                <p>Recommand product</p>
+                <p></p>
+              </div>
+              <!--product trai-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Motorola 156 mk</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/laptop.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <!--product giua-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Dien Thoai HK</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/dienthoai.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+              <!--product phai-->
+              <div class="prod_box">
+                <div class="top_prod_box"></div>
+                <div class="center_prod_box">
+                  <div class="product_title"><a href="#"> Loa CKD</a></div>
+                  <div class="product_image"><a href="#"><img src="../image/loa.jpg" /></a></div>
+                  <div class="product_price"> <span class="reduce">3503$</span> <span class="price">270$</span> </div>
+                </div>
+                <div class="bottom_prod_box"></div>
+                <div class="prod_details_tab"> <a href="#" title="add to cart"><img src="../image/icon_prod1.PNG" alt="cart" class="left_pt" /></a> <a href="#" title="specials"><img src="../image/icon_prod2.PNG" alt="specials" class="left_pt" /></a> <a href="#" title="gift"><img src="../image/icon_prod3.PNG" alt="gift" class="left_pt" /></a> <img src="../image/icon_prod4.PNG"/><a href="#" class="prod_details">
+                  <p> details</p>
+                </a> </div>
+              </div>
+            </div>
+            <!-- TemplateEndEditable --><!--right content--->
+            <div class="right_content">
+            	<!--shopping cart-->
+            	<div class="shopping_cart">
+                	<div class="cart_title">Shopping cart</div>
+                    <div class="cart_details">
+                    	3 items<br/>
+                        <span class="border_cart"></span>
+                        Total: <span class="price">350$</span>
+                        
+                    </div>
+                    <div class="cart_icon">
+                    	<a href="#" title="checkout"><img src="../image/icon_giohang.png" alt="checkout"/></a>								  										<!--header=[checkout] body=[&nbsp]-->
+                     </div>
+                </div>
+            	<!--what new---->
+                <div class="title_box">What new</div>
+                <div class="border_box">
+                	<div class="product_title"><a href="#"> Motorola 156 mk</a></div>
+                    <div class="product_image"><a href="#"><img src="../image/laptop.jpg" /></a></div>
+                    <div class="product_price">
+                    	<span class="reduce">3503$</span>
+                        <span class="price">270$</span>
+                    </div>
+                </div>
+                <!-- menu factures-->
+                 <div class="title_box">Menu factures</div>
+               	 <ul class="left_menu">
+                	<li class="odd"><a href="#"><img src="../image/tichXanh.png" />sony</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Acer</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Dell</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Desktops</a></li>
+                    <li class="odd"><a href="#"><img src="../image/tichXanh.png" />Laptops</a></li>
+                    <li class="even"><a href="#"><img src="../image/tichXanh.png" />Processors</a></li>
+                    
+                 </ul>
+                 <!-- banner-->
+                <div class="banner_adds">
+                	<a href="#"><img src="../image/banner2.jpg" alt="banner"/></a>
+                	<br/>Luxury gemstones
+                </div>
+
+            </div>
+            
+        </div>
+        <div class="clr"></div> <!--xoa bo cac dinh dang o tren-->
+       <!-- /*start footer and end content*/-->
+        <div class="footer">
+        	<div class="left_footer">
+            	<img src="../image/logo.jpg" alt="logo footer" />
+            </div>
+            <div class="center_footer">
+            	Template name. All Rights Reserved 2003<br/>
+                <a href="#"><img src="../image/icon_footer1.PNG" alt="image template"/></a><br/>
+                <img src="../image/icon_footer2.PNG" alt="Payment"/>
+            </div>
+            <div class="right_footer">
+            	<a href="#">Home</a>
+                <a href="#">about</a>
+                <a href="#">aitemap</a>
+                <a href="#">rss</a>
+                <a href="#">contact us</a>
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
